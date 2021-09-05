@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandAPI", "CommandAPI\CommandAPI.csproj", "{FCBDDFF1-FEDA-4C35-9EA9-CB983D01ABDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBDDFF1-FEDA-4C35-9EA9-CB983D01ABDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBDDFF1-FEDA-4C35-9EA9-CB983D01ABDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBDDFF1-FEDA-4C35-9EA9-CB983D01ABDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBDDFF1-FEDA-4C35-9EA9-CB983D01ABDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A64BA1-9D4D-4AB1-A3B4-EBA48F9EDAC5}
+	EndGlobalSection
+EndGlobal
